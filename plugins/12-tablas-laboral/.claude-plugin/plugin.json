@@ -1,11 +1,17 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "12-tablas-laboral",
-  "version": "1.0.1",
-  "description": "Suite de 15 skills para estudios juridicos laborales argentinos, parte trabajadora: triage, honorarios, telegramas, liquidacion indemnizatoria, demanda, escritos, estrategia de litigio, plazos, comunicacion y anonimizacion. Cada skill lee el perfil del estudio y los modelos desde la carpeta del estudio sincronizada.",
+  "version": "2.0.0",
+  "description": "[v2.0.0 TEST SYNC] Suite de 17 skills para estudios laborales argentinos (parte trabajadora). Si ves esta descripcion y la version 2.0.0, la actualizacion del marketplace funciono.",
   "author": {
     "name": "12 Tablas Digital",
     "email": "gestion@12tablasdigital.com"
   },
-  "keywords": ["legal", "laboral", "argentina", "parte-trabajadora", "lct"]
+  "keywords": [
+    "legal",
+    "laboral",
+    "argentina",
+    "parte-trabajadora",
+    "lct"
+  ]
 }
