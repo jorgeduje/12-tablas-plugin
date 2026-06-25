@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "12-tablas-laboral",
-  "version": "2.0.0",
-  "description": "[v2.0.0 TEST SYNC] Suite de 17 skills para estudios laborales argentinos (parte trabajadora). Si ves esta descripcion y la version 2.0.0, la actualizacion del marketplace funciono.",
+  "version": "2.0.1",
+  "description": "[v2.0.1 TEST PR-MERGE] Suite de 17 skills - parte trabajadora. Si ves 2.0.1, el auto-sync por merge de PR funciono.",
   "author": {
     "name": "12 Tablas Digital",
     "email": "gestion@12tablasdigital.com"
