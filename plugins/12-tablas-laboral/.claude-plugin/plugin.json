@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "12-tablas-laboral",
-  "version": "2.2.0",
-  "description": "[v2.2.0 TEST MANUAL] Suite de 15 skills para estudios laborales argentinos (parte trabajadora). Si ves 2.2.0 y este texto, el modo manual (Buscar actualizaciones) funciono.",
+  "version": "2.3.0",
+  "description": "[v2.3.0 SIN GITHUB] Suite de 15 skills para estudios laborales argentinos (parte trabajadora). Si ves 2.3.0 con GitHub DESCONECTADO, el cliente NO necesita GitHub para actualizar.",
   "author": {
     "name": "12 Tablas Digital",
     "email": "gestion@12tablasdigital.com"
